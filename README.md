@@ -9,6 +9,6 @@ Python GUI programming for Raspberry Pi
 - Python 3.6+, PyQt5, sqlite3
 
 ### [Screenshots]
-![First_Tab](https://github.com/dailyInsight6/make-a-story/blob/master/Python_GUI-Soccer%20Manager/screenshots/main_first_tab.jpeg)
-![Second_Tab](https://github.com/dailyInsight6/make-a-story/blob/master/Python_GUI-Soccer%20Manager/screenshots/main_second_tab.jpeg)
-![Third_Tab](https://github.com/dailyInsight6/make-a-story/blob/master/Python_GUI-Soccer%20Manager/screenshots/main_third_tab.jpeg)
+![First_Tab](https://github.com/dailyInsight6/soccer_manager/blob/master/screenshots/main_first_tab.jpeg)
+![Second_Tab](https://github.com/dailyInsight6/soccer_manager/blob/master/screenshots/main_second_tab.jpeg)
+![Third_Tab](https://github.com/dailyInsight6/soccer_manager/blob/master/screenshots/main_third_tab.jpeg)
